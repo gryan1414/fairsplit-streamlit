@@ -92,7 +92,7 @@ for idx, row in df.iterrows():
 st.subheader("📈 15-Day Energy Forecast for Room A")
 
 # Load CSV data (if not already loaded earlier in the script)
-df = pd.read_csv("sample_data/6-Month_Updated_Room_Energy_Usage_Data (1).csv")
+df = pd.read_csv("room_energy_data.csv")
 
 # Convert date
 df['date'] = pd.to_datetime(df['date'], dayfirst=True)
