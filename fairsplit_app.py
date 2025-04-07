@@ -47,3 +47,4 @@ st.pyplot(fig)
 
 # Display Score
 st.caption(f"📈 Linear Regression Accuracy (R²): **{round(r2, 2)}**")
+
