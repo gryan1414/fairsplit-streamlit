@@ -1,0 +1,361 @@
+date,room_id,room_size,occupancy_hours,device_count,avg_temp,day_of_week,kwh_used,personality_type
+01/01/2025,Room A,14,21.9,6,8.5,Wednesday,4.47,Tech heavy student
+02/01/2025,Room A,14,16.8,8,3.4,Thursday,7.03,Tech heavy student
+03/01/2025,Room A,14,21.7,7,7.8,Friday,5.42,Tech heavy student
+04/01/2025,Room A,14,23.5,7,7.2,Saturday,5.2,Tech heavy student
+05/01/2025,Room A,14,18.4,7,5.6,Sunday,5.03,Tech heavy student
+06/01/2025,Room A,14,16.4,9,-0.3,Monday,7.53,Tech heavy student
+07/01/2025,Room A,14,22.3,8,4.9,Tuesday,4.99,Tech heavy student
+08/01/2025,Room A,14,19.7,6,7.4,Wednesday,4.63,Tech heavy student
+09/01/2025,Room A,14,16.5,9,3.5,Thursday,6.28,Tech heavy student
+10/01/2025,Room A,14,19.1,7,7.3,Friday,5.16,Tech heavy student
+11/01/2025,Room A,14,19.5,8,7.9,Saturday,4.57,Tech heavy student
+12/01/2025,Room A,14,17.4,6,10.4,Sunday,3.71,Tech heavy student
+13/01/2025,Room A,14,18.5,7,9.5,Monday,3.5,Tech heavy student
+14/01/2025,Room A,14,16.3,7,8,Tuesday,3.64,Tech heavy student
+15/01/2025,Room A,14,23.4,9,7.7,Wednesday,5.98,Tech heavy student
+16/01/2025,Room A,14,23.7,6,9.4,Thursday,5.79,Tech heavy student
+17/01/2025,Room A,14,22.6,7,2.6,Friday,6.23,Tech heavy student
+18/01/2025,Room A,14,18.2,6,7.3,Saturday,4.74,Tech heavy student
+19/01/2025,Room A,14,21.8,6,8.7,Sunday,4.9,Tech heavy student
+20/01/2025,Room A,14,21.2,9,9.1,Monday,4.98,Tech heavy student
+21/01/2025,Room A,14,18.6,9,8,Tuesday,5.45,Tech heavy student
+22/01/2025,Room A,14,21.3,9,11.4,Wednesday,3.65,Tech heavy student
+23/01/2025,Room A,14,19.8,6,9.5,Thursday,4.17,Tech heavy student
+24/01/2025,Room A,14,18,8,4.2,Friday,6.24,Tech heavy student
+25/01/2025,Room A,14,16.2,6,-0.9,Saturday,7.19,Tech heavy student
+26/01/2025,Room A,14,19.8,6,7.5,Sunday,4.59,Tech heavy student
+27/01/2025,Room A,14,18,6,9.7,Monday,3.8,Tech heavy student
+28/01/2025,Room A,14,23.5,8,2.7,Tuesday,6.93,Tech heavy student
+29/01/2025,Room A,14,23.4,6,4.6,Wednesday,5.62,Tech heavy student
+30/01/2025,Room A,14,19.7,9,5.2,Thursday,5.76,Tech heavy student
+31/01/2025,Room A,14,23.2,8,11.1,Friday,4.37,Tech heavy student
+01/02/2025,Room A,14,21.2,6,6.2,Saturday,5.38,Tech heavy student
+02/02/2025,Room A,14,16.1,9,7.9,Sunday,4.87,Tech heavy student
+03/02/2025,Room A,14,21.5,7,3.1,Monday,7.8,Tech heavy student
+04/02/2025,Room A,14,18.6,9,8.4,Tuesday,4.77,Tech heavy student
+05/02/2025,Room A,14,16.5,7,0.7,Wednesday,7.17,Tech heavy student
+06/02/2025,Room A,14,18.3,6,1.2,Thursday,6.34,Tech heavy student
+07/02/2025,Room A,14,18.8,6,5.7,Friday,5.03,Tech heavy student
+08/02/2025,Room A,14,19.9,9,5.3,Saturday,5.7,Tech heavy student
+09/02/2025,Room A,14,16.6,9,13.5,Sunday,3.74,Tech heavy student
+10/02/2025,Room A,14,18.9,9,9.4,Monday,4.13,Tech heavy student
+11/02/2025,Room A,14,22.5,9,6.9,Tuesday,5.8,Tech heavy student
+12/02/2025,Room A,14,17.5,6,5.5,Wednesday,5.45,Tech heavy student
+13/02/2025,Room A,14,17.8,7,5.8,Thursday,5.58,Tech heavy student
+14/02/2025,Room A,14,21.2,9,2.3,Friday,6.95,Tech heavy student
+15/02/2025,Room A,14,20.1,9,6.6,Saturday,5.85,Tech heavy student
+16/02/2025,Room A,14,16.9,8,5.8,Sunday,4.8,Tech heavy student
+17/02/2025,Room A,14,17.8,9,12.6,Monday,3.7,Tech heavy student
+18/02/2025,Room A,14,20.2,7,7.7,Tuesday,5.47,Tech heavy student
+19/02/2025,Room A,14,17.5,6,10,Wednesday,3.73,Tech heavy student
+20/02/2025,Room A,14,23.2,9,10.9,Thursday,4.11,Tech heavy student
+21/02/2025,Room A,14,22.8,6,9.8,Friday,4.14,Tech heavy student
+22/02/2025,Room A,14,16,9,7.9,Saturday,4.38,Tech heavy student
+23/02/2025,Room A,14,19.6,6,6.6,Sunday,3.92,Tech heavy student
+24/02/2025,Room A,14,17.9,6,9.2,Monday,3.45,Tech heavy student
+25/02/2025,Room A,14,22,8,5.6,Tuesday,5.26,Tech heavy student
+26/02/2025,Room A,14,16.7,8,9.5,Wednesday,5.08,Tech heavy student
+27/02/2025,Room A,14,20.7,7,3,Thursday,6.62,Tech heavy student
+28/02/2025,Room A,14,21,7,9.6,Friday,4.19,Tech heavy student
+01/03/2025,Room A,14,21.4,6,10.9,Saturday,3.09,Tech heavy student
+02/03/2025,Room A,14,18.2,8,8.9,Sunday,4.03,Tech heavy student
+03/03/2025,Room A,14,18.2,7,7,Monday,4.93,Tech heavy student
+04/03/2025,Room A,14,23.7,8,6.6,Tuesday,6.06,Tech heavy student
+05/03/2025,Room A,14,18.1,8,4.2,Wednesday,5.57,Tech heavy student
+06/03/2025,Room A,14,23.5,7,7.6,Thursday,4.53,Tech heavy student
+07/03/2025,Room A,14,18.9,8,8.9,Friday,3.98,Tech heavy student
+08/03/2025,Room A,14,21.9,6,10.2,Saturday,4.07,Tech heavy student
+09/03/2025,Room A,14,20.4,7,8.3,Sunday,4.3,Tech heavy student
+10/03/2025,Room A,14,22.9,6,8.5,Monday,4.89,Tech heavy student
+11/03/2025,Room A,14,16.6,7,3.5,Tuesday,5.97,Tech heavy student
+12/03/2025,Room A,14,18.7,9,7.7,Wednesday,5.15,Tech heavy student
+13/03/2025,Room A,14,21.4,8,2.3,Thursday,7.74,Tech heavy student
+14/03/2025,Room A,14,18.3,7,13.9,Friday,1.81,Tech heavy student
+15/03/2025,Room A,14,16.3,8,5.8,Saturday,5.5,Tech heavy student
+16/03/2025,Room A,14,20.2,6,4.3,Sunday,5.45,Tech heavy student
+17/03/2025,Room A,14,17.6,7,10.6,Monday,3.59,Tech heavy student
+18/03/2025,Room A,14,21.8,6,13.4,Tuesday,3.37,Tech heavy student
+19/03/2025,Room A,14,19.5,7,6.7,Wednesday,4.8,Tech heavy student
+20/03/2025,Room A,14,17.4,6,4.7,Thursday,6.06,Tech heavy student
+21/03/2025,Room A,14,16.8,6,2.4,Friday,5.7,Tech heavy student
+22/03/2025,Room A,14,23.6,8,3.2,Saturday,7.16,Tech heavy student
+23/03/2025,Room A,14,21.8,8,4.6,Sunday,7.05,Tech heavy student
+24/03/2025,Room A,14,22.1,6,4.8,Monday,5.02,Tech heavy student
+25/03/2025,Room A,14,16.8,7,5,Tuesday,5.16,Tech heavy student
+26/03/2025,Room A,14,19.8,7,8.3,Wednesday,4.97,Tech heavy student
+27/03/2025,Room A,14,18.8,7,9.1,Thursday,4.55,Tech heavy student
+28/03/2025,Room A,14,20.9,6,1,Friday,6.04,Tech heavy student
+29/03/2025,Room A,14,16.1,8,6,Saturday,5.37,Tech heavy student
+30/03/2025,Room A,14,21.3,9,10.5,Sunday,4.49,Tech heavy student
+31/03/2025,Room A,14,23.6,9,8.7,Monday,5.32,Tech heavy student
+01/01/2025,Room B,10,9.5,3,8.9,Wednesday,2.43,Minimalist
+02/01/2025,Room B,10,10.9,2,3.9,Thursday,3.92,Minimalist
+03/01/2025,Room B,10,11.8,3,6.5,Friday,3.61,Minimalist
+04/01/2025,Room B,10,7.3,3,5,Saturday,2.9,Minimalist
+05/01/2025,Room B,10,7.9,3,5.5,Sunday,3.33,Minimalist
+06/01/2025,Room B,10,7.6,2,3.6,Monday,4.21,Minimalist
+07/01/2025,Room B,10,9.8,2,8.1,Tuesday,2.11,Minimalist
+08/01/2025,Room B,10,11.8,3,6.7,Wednesday,3.01,Minimalist
+09/01/2025,Room B,10,10.8,2,8.7,Thursday,2.03,Minimalist
+10/01/2025,Room B,10,7.5,3,5.2,Friday,3.5,Minimalist
+11/01/2025,Room B,10,11.2,2,8.6,Saturday,2.32,Minimalist
+12/01/2025,Room B,10,7.4,3,10.4,Sunday,2.14,Minimalist
+13/01/2025,Room B,10,11,3,7,Monday,3.55,Minimalist
+14/01/2025,Room B,10,6.3,2,5.2,Tuesday,2.81,Minimalist
+15/01/2025,Room B,10,11.7,2,8,Wednesday,2.61,Minimalist
+16/01/2025,Room B,10,6.6,3,4.4,Thursday,3.42,Minimalist
+17/01/2025,Room B,10,10.5,2,10.6,Friday,1.17,Minimalist
+18/01/2025,Room B,10,11.6,3,6,Saturday,3.59,Minimalist
+19/01/2025,Room B,10,8.6,2,7.2,Sunday,2.26,Minimalist
+20/01/2025,Room B,10,11.8,2,12.4,Monday,1.55,Minimalist
+21/01/2025,Room B,10,6.6,2,8.8,Tuesday,2.59,Minimalist
+22/01/2025,Room B,10,8.4,2,2.7,Wednesday,3.74,Minimalist
+23/01/2025,Room B,10,6.5,2,5.6,Thursday,2.99,Minimalist
+24/01/2025,Room B,10,11.3,2,10.2,Friday,2.09,Minimalist
+25/01/2025,Room B,10,6.5,2,5,Saturday,3.73,Minimalist
+26/01/2025,Room B,10,7.5,2,11.4,Sunday,0.78,Minimalist
+27/01/2025,Room B,10,6.1,3,6.9,Monday,2.12,Minimalist
+28/01/2025,Room B,10,10.6,2,11.8,Tuesday,1.66,Minimalist
+29/01/2025,Room B,10,9.5,3,10.8,Wednesday,2.19,Minimalist
+30/01/2025,Room B,10,6.5,2,5.4,Thursday,1.71,Minimalist
+31/01/2025,Room B,10,6.4,2,7.7,Friday,2.25,Minimalist
+01/02/2025,Room B,10,7,2,5.6,Saturday,3.03,Minimalist
+02/02/2025,Room B,10,9.8,3,5.7,Sunday,4.3,Minimalist
+03/02/2025,Room B,10,11.5,3,11.3,Monday,1.51,Minimalist
+04/02/2025,Room B,10,7.7,3,13.6,Tuesday,0.5,Minimalist
+05/02/2025,Room B,10,7.4,3,3.4,Wednesday,4.62,Minimalist
+06/02/2025,Room B,10,10.9,3,1.3,Thursday,4.99,Minimalist
+07/02/2025,Room B,10,6.5,3,5.1,Friday,3.03,Minimalist
+08/02/2025,Room B,10,11.6,3,3,Saturday,5.26,Minimalist
+09/02/2025,Room B,10,8.5,3,3.3,Sunday,4.05,Minimalist
+10/02/2025,Room B,10,8.3,3,7.9,Monday,2.01,Minimalist
+11/02/2025,Room B,10,6.4,2,7.8,Tuesday,2.82,Minimalist
+12/02/2025,Room B,10,6.3,3,2.2,Wednesday,3.77,Minimalist
+13/02/2025,Room B,10,10.5,2,8,Thursday,3.5,Minimalist
+14/02/2025,Room B,10,11.7,3,11.5,Friday,1.96,Minimalist
+15/02/2025,Room B,10,7.2,2,2.9,Saturday,3.42,Minimalist
+16/02/2025,Room B,10,7.4,2,7.4,Sunday,2.69,Minimalist
+17/02/2025,Room B,10,11,3,-3.4,Monday,6.1,Minimalist
+18/02/2025,Room B,10,9.4,3,7.5,Tuesday,3.36,Minimalist
+19/02/2025,Room B,10,8.9,2,8.2,Wednesday,2.99,Minimalist
+20/02/2025,Room B,10,10.2,2,8.9,Thursday,2.93,Minimalist
+21/02/2025,Room B,10,11.9,3,7.7,Friday,3.38,Minimalist
+22/02/2025,Room B,10,8.6,2,1.8,Saturday,4.94,Minimalist
+23/02/2025,Room B,10,8.7,2,8.1,Sunday,3.21,Minimalist
+24/02/2025,Room B,10,11.2,2,11.9,Monday,0.76,Minimalist
+25/02/2025,Room B,10,11.1,2,6.4,Tuesday,3.79,Minimalist
+26/02/2025,Room B,10,11.9,2,6.2,Wednesday,2.41,Minimalist
+27/02/2025,Room B,10,9.5,2,3.6,Thursday,3.48,Minimalist
+28/02/2025,Room B,10,7.1,3,8.1,Friday,1.91,Minimalist
+01/03/2025,Room B,10,9.1,3,10,Saturday,1.89,Minimalist
+02/03/2025,Room B,10,6.2,2,5.7,Sunday,2.59,Minimalist
+03/03/2025,Room B,10,6.2,3,3.2,Monday,3.12,Minimalist
+04/03/2025,Room B,10,7.2,3,6.7,Tuesday,2.3,Minimalist
+05/03/2025,Room B,10,7.9,3,5.9,Wednesday,2.72,Minimalist
+06/03/2025,Room B,10,6.5,3,8.5,Thursday,2.79,Minimalist
+07/03/2025,Room B,10,6,3,5.9,Friday,2.41,Minimalist
+08/03/2025,Room B,10,7.1,2,8.8,Saturday,2.34,Minimalist
+09/03/2025,Room B,10,7.4,3,9.4,Sunday,2.06,Minimalist
+10/03/2025,Room B,10,10.5,3,5.1,Monday,2.52,Minimalist
+11/03/2025,Room B,10,10.5,3,9.6,Tuesday,2.51,Minimalist
+12/03/2025,Room B,10,9.2,2,6.6,Wednesday,2.36,Minimalist
+13/03/2025,Room B,10,7.1,2,7.9,Thursday,2,Minimalist
+14/03/2025,Room B,10,8,3,3.8,Friday,3.42,Minimalist
+15/03/2025,Room B,10,8.8,3,4.9,Saturday,2.92,Minimalist
+16/03/2025,Room B,10,6.5,2,7,Sunday,3.2,Minimalist
+17/03/2025,Room B,10,9.5,3,8.2,Monday,3.41,Minimalist
+18/03/2025,Room B,10,8.2,3,5.8,Tuesday,2.83,Minimalist
+19/03/2025,Room B,10,9,3,2.8,Wednesday,4.47,Minimalist
+20/03/2025,Room B,10,6.6,3,2.8,Thursday,4.2,Minimalist
+21/03/2025,Room B,10,11.1,3,6.4,Friday,2.16,Minimalist
+22/03/2025,Room B,10,11.4,2,4.5,Saturday,3.41,Minimalist
+23/03/2025,Room B,10,11.5,2,7.5,Sunday,3.25,Minimalist
+24/03/2025,Room B,10,7,2,5.3,Monday,3.4,Minimalist
+25/03/2025,Room B,10,9.2,3,8.7,Tuesday,2.83,Minimalist
+26/03/2025,Room B,10,7.1,3,9.8,Wednesday,1.49,Minimalist
+27/03/2025,Room B,10,10.4,3,4.3,Thursday,4.18,Minimalist
+28/03/2025,Room B,10,7.7,2,7.8,Friday,1.89,Minimalist
+29/03/2025,Room B,10,7.9,2,9.3,Saturday,1.91,Minimalist
+30/03/2025,Room B,10,6.8,2,6.6,Sunday,2.41,Minimalist
+31/03/2025,Room B,10,10.1,3,2.8,Monday,4.39,Minimalist
+01/01/2025,Room C,12,7,3,9.5,Wednesday,1.49,On Placement
+02/01/2025,Room C,12,14.8,3,14.2,Thursday,1.12,On Placement
+03/01/2025,Room C,12,4.7,3,7.5,Friday,2.46,On Placement
+04/01/2025,Room C,12,10.3,3,7.6,Saturday,3.14,On Placement
+05/01/2025,Room C,12,11.2,4,8,Sunday,2.91,On Placement
+06/01/2025,Room C,12,4.9,4,5.7,Monday,3.42,On Placement
+07/01/2025,Room C,12,15.3,3,0.4,Tuesday,5.79,On Placement
+08/01/2025,Room C,12,6.9,4,5.5,Wednesday,4.39,On Placement
+09/01/2025,Room C,12,14.5,3,1.4,Thursday,5.06,On Placement
+10/01/2025,Room C,12,5.6,4,1.4,Friday,5.03,On Placement
+11/01/2025,Room C,12,13.7,3,9.7,Saturday,2.72,On Placement
+12/01/2025,Room C,12,14.4,4,1.4,Sunday,5.04,On Placement
+13/01/2025,Room C,12,6.5,4,8,Monday,2.44,On Placement
+14/01/2025,Room C,12,16,3,8.4,Tuesday,4.06,On Placement
+15/01/2025,Room C,12,7,4,3.7,Wednesday,3.57,On Placement
+16/01/2025,Room C,12,13,4,9,Thursday,2.55,On Placement
+17/01/2025,Room C,12,4.4,4,10.1,Friday,1.56,On Placement
+18/01/2025,Room C,12,13,4,13.8,Saturday,1.1,On Placement
+19/01/2025,Room C,12,14.3,4,5.7,Sunday,3.84,On Placement
+20/01/2025,Room C,12,6.3,4,7.1,Monday,2.83,On Placement
+21/01/2025,Room C,12,11.1,4,4.7,Tuesday,3.48,On Placement
+22/01/2025,Room C,12,5.7,4,3.5,Wednesday,3.59,On Placement
+23/01/2025,Room C,12,13.7,3,7.5,Thursday,4.63,On Placement
+24/01/2025,Room C,12,4.4,4,8.9,Friday,2.94,On Placement
+25/01/2025,Room C,12,14.2,4,8.4,Saturday,3.4,On Placement
+26/01/2025,Room C,12,10.4,3,5.2,Sunday,4.33,On Placement
+27/01/2025,Room C,12,7.7,3,7.6,Monday,2.75,On Placement
+28/01/2025,Room C,12,11,4,6,Tuesday,3.46,On Placement
+29/01/2025,Room C,12,6.4,3,7.2,Wednesday,3.23,On Placement
+30/01/2025,Room C,12,11.2,3,11.2,Thursday,1.62,On Placement
+31/01/2025,Room C,12,7.7,4,9.6,Friday,1.14,On Placement
+01/02/2025,Room C,12,15.5,4,2.3,Saturday,3.86,On Placement
+02/02/2025,Room C,12,10.8,4,6.2,Sunday,2.87,On Placement
+03/02/2025,Room C,12,4.1,3,3.4,Monday,3.73,On Placement
+04/02/2025,Room C,12,13.8,4,10.2,Tuesday,1.78,On Placement
+05/02/2025,Room C,12,7.9,3,7.2,Wednesday,2.08,On Placement
+06/02/2025,Room C,12,10.5,3,6.2,Thursday,2.84,On Placement
+07/02/2025,Room C,12,5.2,4,5.3,Friday,2.89,On Placement
+08/02/2025,Room C,12,15.4,4,4.7,Saturday,4.88,On Placement
+09/02/2025,Room C,12,12.3,4,13.8,Sunday,1.21,On Placement
+10/02/2025,Room C,12,7.1,3,4.9,Monday,3.5,On Placement
+11/02/2025,Room C,12,12.9,4,14.3,Tuesday,2.38,On Placement
+12/02/2025,Room C,12,4.7,3,3.5,Wednesday,3.73,On Placement
+13/02/2025,Room C,12,11.6,3,7.3,Thursday,3.07,On Placement
+14/02/2025,Room C,12,4.1,4,3.7,Friday,4.59,On Placement
+15/02/2025,Room C,12,11.5,3,10.7,Saturday,1.07,On Placement
+16/02/2025,Room C,12,11.1,3,7.3,Sunday,3.05,On Placement
+17/02/2025,Room C,12,7.2,4,12.1,Monday,1.7,On Placement
+18/02/2025,Room C,12,15,4,9.1,Tuesday,3.38,On Placement
+19/02/2025,Room C,12,4.3,4,1.9,Wednesday,3.81,On Placement
+20/02/2025,Room C,12,15.4,3,2,Thursday,6.02,On Placement
+21/02/2025,Room C,12,7.3,3,2.5,Friday,4.75,On Placement
+22/02/2025,Room C,12,13.7,4,2.3,Saturday,5.38,On Placement
+23/02/2025,Room C,12,15.2,3,5.1,Sunday,4.81,On Placement
+24/02/2025,Room C,12,7.2,3,9.9,Monday,1.93,On Placement
+25/02/2025,Room C,12,14.5,4,13.8,Tuesday,0.5,On Placement
+26/02/2025,Room C,12,4.6,3,3,Wednesday,4.14,On Placement
+27/02/2025,Room C,12,15.4,4,3.9,Thursday,4.67,On Placement
+28/02/2025,Room C,12,6.2,3,2.1,Friday,4.46,On Placement
+01/03/2025,Room C,12,10.6,4,12.4,Saturday,1.72,On Placement
+02/03/2025,Room C,12,13.6,3,7.8,Sunday,3.72,On Placement
+03/03/2025,Room C,12,7.4,3,15.3,Monday,0.5,On Placement
+04/03/2025,Room C,12,10.3,4,8.2,Tuesday,1.8,On Placement
+05/03/2025,Room C,12,4.3,3,7.4,Wednesday,2.28,On Placement
+06/03/2025,Room C,12,14.3,3,4.2,Thursday,3.69,On Placement
+07/03/2025,Room C,12,5.6,4,8.6,Friday,2.44,On Placement
+08/03/2025,Room C,12,11.3,4,7.3,Saturday,3.43,On Placement
+09/03/2025,Room C,12,15,3,3.3,Sunday,4.79,On Placement
+10/03/2025,Room C,12,5.3,4,14.7,Monday,0.5,On Placement
+11/03/2025,Room C,12,12.1,3,0.6,Tuesday,5.04,On Placement
+12/03/2025,Room C,12,5.7,3,12.9,Wednesday,0.87,On Placement
+13/03/2025,Room C,12,15.8,3,10,Thursday,2.49,On Placement
+14/03/2025,Room C,12,4.7,4,6.8,Friday,3.15,On Placement
+15/03/2025,Room C,12,14.3,4,10.9,Saturday,2.92,On Placement
+16/03/2025,Room C,12,12.9,3,5.6,Sunday,4.12,On Placement
+17/03/2025,Room C,12,6.7,4,6.2,Monday,3.28,On Placement
+18/03/2025,Room C,12,11.1,3,8.3,Tuesday,2.93,On Placement
+19/03/2025,Room C,12,4.5,3,1.1,Wednesday,4.17,On Placement
+20/03/2025,Room C,12,15.8,3,8.3,Thursday,3.17,On Placement
+21/03/2025,Room C,12,4.2,3,9,Friday,2.33,On Placement
+22/03/2025,Room C,12,10.2,3,9.8,Saturday,2.02,On Placement
+23/03/2025,Room C,12,12.9,3,9.7,Sunday,1.57,On Placement
+24/03/2025,Room C,12,6.9,4,3.9,Monday,4.57,On Placement
+25/03/2025,Room C,12,13.2,4,11,Tuesday,2.58,On Placement
+26/03/2025,Room C,12,7.5,4,10.1,Wednesday,1.38,On Placement
+27/03/2025,Room C,12,12.8,4,6.3,Thursday,4.27,On Placement
+28/03/2025,Room C,12,7.2,3,9.1,Friday,2.2,On Placement
+29/03/2025,Room C,12,11.6,3,14.8,Saturday,0.6,On Placement
+30/03/2025,Room C,12,12.5,3,5.7,Sunday,4.48,On Placement
+31/03/2025,Room C,12,7.4,4,1.4,Monday,4.57,On Placement
+01/01/2025,Room D,16,17.4,5,1.2,Wednesday,5.58,Always Cold
+02/01/2025,Room D,16,19.9,4,8.7,Thursday,3.21,Always Cold
+03/01/2025,Room D,16,16.9,4,6.9,Friday,4.57,Always Cold
+04/01/2025,Room D,16,15.2,4,6.7,Saturday,4.14,Always Cold
+05/01/2025,Room D,16,16.1,5,10.5,Sunday,4.07,Always Cold
+06/01/2025,Room D,16,12.3,5,6.6,Monday,3.79,Always Cold
+07/01/2025,Room D,16,12.5,4,5.1,Tuesday,4.91,Always Cold
+08/01/2025,Room D,16,16.8,4,7.3,Wednesday,3.34,Always Cold
+09/01/2025,Room D,16,18.1,5,5.9,Thursday,4.26,Always Cold
+10/01/2025,Room D,16,18,4,13.7,Friday,1.95,Always Cold
+11/01/2025,Room D,16,12.7,4,11.6,Saturday,3.28,Always Cold
+12/01/2025,Room D,16,15.8,4,2.5,Sunday,5.07,Always Cold
+13/01/2025,Room D,16,16.4,4,8.6,Monday,4.19,Always Cold
+14/01/2025,Room D,16,12,4,4.1,Tuesday,4.15,Always Cold
+15/01/2025,Room D,16,12.6,5,6.9,Wednesday,4.89,Always Cold
+16/01/2025,Room D,16,19.3,4,7.1,Thursday,4.9,Always Cold
+17/01/2025,Room D,16,16.5,4,11,Friday,2.4,Always Cold
+18/01/2025,Room D,16,18.9,5,7.5,Saturday,5.32,Always Cold
+19/01/2025,Room D,16,17.6,5,9.5,Sunday,3.97,Always Cold
+20/01/2025,Room D,16,13.5,4,8,Monday,3.25,Always Cold
+21/01/2025,Room D,16,17.9,4,5.9,Tuesday,4.21,Always Cold
+22/01/2025,Room D,16,13.5,4,4.6,Wednesday,5.02,Always Cold
+23/01/2025,Room D,16,17.1,4,7.6,Thursday,4.06,Always Cold
+24/01/2025,Room D,16,14.3,4,6.3,Friday,4.22,Always Cold
+25/01/2025,Room D,16,14.7,5,8.6,Saturday,3.71,Always Cold
+26/01/2025,Room D,16,18.3,5,8.7,Sunday,3.68,Always Cold
+27/01/2025,Room D,16,14.4,4,5.7,Monday,4.44,Always Cold
+28/01/2025,Room D,16,15.8,5,9.3,Tuesday,4.09,Always Cold
+29/01/2025,Room D,16,19,5,5.6,Wednesday,5.09,Always Cold
+30/01/2025,Room D,16,17.2,5,5.2,Thursday,5.9,Always Cold
+31/01/2025,Room D,16,17.5,5,11.7,Friday,3,Always Cold
+01/02/2025,Room D,16,19.6,4,6.7,Saturday,3.94,Always Cold
+02/02/2025,Room D,16,18.4,4,3.3,Sunday,5.35,Always Cold
+03/02/2025,Room D,16,18.2,5,9.5,Monday,3.52,Always Cold
+04/02/2025,Room D,16,19.6,5,3.2,Tuesday,6.25,Always Cold
+05/02/2025,Room D,16,14.6,5,1.5,Wednesday,5.54,Always Cold
+06/02/2025,Room D,16,12.2,4,4.9,Thursday,4.03,Always Cold
+07/02/2025,Room D,16,15.8,4,8.5,Friday,4.49,Always Cold
+08/02/2025,Room D,16,18.2,5,8,Saturday,4.44,Always Cold
+09/02/2025,Room D,16,18.4,5,5.9,Sunday,4.88,Always Cold
+10/02/2025,Room D,16,15.9,5,10.7,Monday,3.41,Always Cold
+11/02/2025,Room D,16,14,4,11.9,Tuesday,3.17,Always Cold
+12/02/2025,Room D,16,12.5,5,6.9,Wednesday,3.27,Always Cold
+13/02/2025,Room D,16,15.5,5,9.7,Thursday,2.59,Always Cold
+14/02/2025,Room D,16,12.6,5,6.2,Friday,4.19,Always Cold
+15/02/2025,Room D,16,17.8,4,8,Saturday,3.95,Always Cold
+16/02/2025,Room D,16,18.2,5,9.4,Sunday,4.03,Always Cold
+17/02/2025,Room D,16,13.2,5,9.8,Monday,3.59,Always Cold
+18/02/2025,Room D,16,17.6,5,14.2,Tuesday,2.29,Always Cold
+19/02/2025,Room D,16,19.1,5,7.2,Wednesday,4.16,Always Cold
+20/02/2025,Room D,16,16.5,5,4,Thursday,5.11,Always Cold
+21/02/2025,Room D,16,12.3,5,9.8,Friday,3.38,Always Cold
+22/02/2025,Room D,16,17.7,5,7.8,Saturday,3.82,Always Cold
+23/02/2025,Room D,16,16.9,4,12.1,Sunday,3.35,Always Cold
+24/02/2025,Room D,16,17.7,5,9.1,Monday,4.04,Always Cold
+25/02/2025,Room D,16,15.9,4,8.6,Tuesday,4.28,Always Cold
+26/02/2025,Room D,16,18.5,5,7.3,Wednesday,4.93,Always Cold
+27/02/2025,Room D,16,13.3,5,5.3,Thursday,4.54,Always Cold
+28/02/2025,Room D,16,19,5,5,Friday,4.94,Always Cold
+01/03/2025,Room D,16,18,4,5.9,Saturday,3.6,Always Cold
+02/03/2025,Room D,16,16,5,8.9,Sunday,4.31,Always Cold
+03/03/2025,Room D,16,15.9,5,8.5,Monday,2.84,Always Cold
+04/03/2025,Room D,16,12.6,4,8.8,Tuesday,2.69,Always Cold
+05/03/2025,Room D,16,13.4,4,8.4,Wednesday,3.2,Always Cold
+06/03/2025,Room D,16,15.4,5,9.8,Thursday,3.84,Always Cold
+07/03/2025,Room D,16,16,5,9.6,Friday,3.9,Always Cold
+08/03/2025,Room D,16,15.5,4,7.7,Saturday,4.37,Always Cold
+09/03/2025,Room D,16,16.8,5,11.7,Sunday,2.19,Always Cold
+10/03/2025,Room D,16,16.7,5,2.1,Monday,5.56,Always Cold
+11/03/2025,Room D,16,15.7,4,3.2,Tuesday,4.45,Always Cold
+12/03/2025,Room D,16,17.7,5,5.1,Wednesday,5.23,Always Cold
+13/03/2025,Room D,16,15,5,12,Thursday,3.34,Always Cold
+14/03/2025,Room D,16,15.9,5,8,Friday,3.86,Always Cold
+15/03/2025,Room D,16,16.7,4,6.4,Saturday,3.93,Always Cold
+16/03/2025,Room D,16,13.3,4,10.4,Sunday,1.93,Always Cold
+17/03/2025,Room D,16,18.9,4,4.4,Monday,4.36,Always Cold
+18/03/2025,Room D,16,13,4,10.3,Tuesday,2.45,Always Cold
+19/03/2025,Room D,16,19.1,5,4.7,Wednesday,4.92,Always Cold
+20/03/2025,Room D,16,14.7,5,7.2,Thursday,3.46,Always Cold
+21/03/2025,Room D,16,16.7,5,6.5,Friday,3.94,Always Cold
+22/03/2025,Room D,16,13.3,4,4.5,Saturday,4.85,Always Cold
+23/03/2025,Room D,16,16.3,4,2.1,Sunday,6.2,Always Cold
+24/03/2025,Room D,16,16.7,4,8.1,Monday,4.04,Always Cold
+25/03/2025,Room D,16,12.3,5,11.8,Tuesday,3.66,Always Cold
+26/03/2025,Room D,16,19.5,4,7.1,Wednesday,4.06,Always Cold
+27/03/2025,Room D,16,13.4,4,3.3,Thursday,5.27,Always Cold
+28/03/2025,Room D,16,12.3,5,7.2,Friday,2.86,Always Cold
+29/03/2025,Room D,16,17.5,5,5.6,Saturday,3.65,Always Cold
+30/03/2025,Room D,16,18.9,4,7.4,Sunday,4.5,Always Cold
+31/03/2025,Room D,16,14.7,5,7.4,Monday,3.2,Always Cold
