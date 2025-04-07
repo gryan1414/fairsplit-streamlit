@@ -1,13 +1,14 @@
 # --- Sidebar Explainer ---
 with st.sidebar:
     st.header("📘 How It Works")
-    st.markdown(\"\"\"
+    st.markdown("""
     **FairSplit AI** uses real or simulated energy usage (in kWh) to:
-    
-    1. **Measure** how much electricity each room uses  
-    2. **Calculate** each room's fair share of the total bill  
-    3. **Compare** that to a traditional equal split  
-    4. **Show** who overpays or saves with FairSplit 🎯
-    
-    This demo uses 4 sample rooms over 30 days. You control the total bill with the slider!
-    \"\"\")
+
+    1. ⚡ **Measure** each room’s energy use
+    2. 💸 **Calculate** how much of the bill each room should pay
+    3. 🧮 **Compare** that to an equal split
+    4. 🧾 **Show** who saves or overpays
+
+    👉 Try changing the total bill above to see the effect in real time.
+    """)
+
