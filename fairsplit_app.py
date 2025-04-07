@@ -87,6 +87,46 @@ for idx, row in df.iterrows():
         st.error(f"{row['Room']} avoids overpaying €{abs(round(savings, 2))} thanks to FairSplit AI!")
     else:
         st.info(f"{row['Room']} pays the same with either method.")
+# --- Forecast Section ---
+st.subheader("📈 15-Day Energy Forecast for Room A")
+
+# Load CSV data (if not already loaded earlier in the script)
+df = pd.read_csv("sample_data/6-Month_Updated_Room_Energy_Usage_Data (1).csv")
+
+# Convert date
+df['date'] = pd.to_datetime(df['date'], dayfirst=True)
+df = df[df['room_id'] == 'Room A']  # Filter for Room A only
+
+# Features & target
+X = df[['room_size', 'occupancy_hours', 'device_count', 'avg_temp']]
+y = df['kwh_used']
+
+# Train/test split
+X_train, X_test = X[:-15], X[-15:]
+y_train, y_test = y[:-15], y[-15:]
+
+# Fit model
+from sklearn.linear_model import LinearRegression
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+# Predict
+y_pred = model.predict(X_test)
+
+# Plot actual vs predicted
+import matplotlib.pyplot as plt
+fig, ax = plt.subplots()
+ax.plot(df['date'][-15:], y_test.values, label='Actual')
+ax.plot(df['date'][-15:], y_pred, label='Predicted')
+ax.set_title("Forecasted vs Actual Energy Use (kWh)")
+ax.set_ylabel("Energy (kWh)")
+ax.set_xlabel("Date")
+ax.legend()
+ax.grid(True)
+st.pyplot(fig)
+
+# Caption
+st.caption("⚠️ Forecast is simulated based on linear regression with room features.")
 
 # --- Footer ---
 st.markdown("---")
