@@ -7,6 +7,20 @@ import matplotlib.pyplot as plt
 # --- Page Settings ---
 st.set_page_config(page_title="FairSplit AI", page_icon="⚡", layout="wide")
 
+# --- Sidebar Explainer ---
+with st.sidebar:
+    st.header("📘 How It Works")
+    st.markdown("""
+    **FairSplit AI** uses real or simulated energy usage (in kWh) to:
+
+    1. ⚡ **Measure** each room’s energy use  
+    2. 💸 **Calculate** their share of the total bill  
+    3. 📊 **Compare** to an equal split  
+    4. 💡 **Show** who overpays or saves
+
+    👉 Use the slider to simulate different bill totals!
+    """)
+
 # --- Header & Branding ---
 st.title("⚡ FairSplit AI Demo")
 st.caption("By Students, For Students | Powered by Real Data")
