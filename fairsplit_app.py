@@ -87,6 +87,7 @@ for idx, row in df.iterrows():
         st.error(f"{row['Room']} avoids overpaying €{abs(round(savings, 2))} thanks to FairSplit AI!")
     else:
         st.info(f"{row['Room']} pays the same with either method.")
+
 # --- Forecast Section ---
 st.subheader("📈 15-Day Energy Forecast for Room A")
 
